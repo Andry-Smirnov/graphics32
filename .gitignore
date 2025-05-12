@@ -30,3 +30,4 @@ Win64
 *.lps
 backup/
 Unit Cache/
+Source/Packages/Lazarus/Design/*
